@@ -1,0 +1,17 @@
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.DataAccess\bin\Debug\net7.0\E_Okul.DataAccess.deps.json
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.DataAccess\bin\Debug\net7.0\E_Okul.DataAccess.dll
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.DataAccess\bin\Debug\net7.0\E_Okul.DataAccess.pdb
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.DataAccess\bin\Debug\net7.0\E_Okul.Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.DataAccess\bin\Debug\net7.0\E_Okul.Models.dll
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.DataAccess\bin\Debug\net7.0\E_Okul.Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.DataAccess\bin\Debug\net7.0\E_Okul.Models.pdb
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.DataAccess\obj\Debug\net7.0\E_Okul.DataAccess.vbproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.DataAccess\obj\Debug\net7.0\E_Okul.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.DataAccess\obj\Debug\net7.0\E_Okul.DataAccess.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.DataAccess\obj\Debug\net7.0\E_Okul.DataAccess.AssemblyInfo.vb
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.DataAccess\obj\Debug\net7.0\E_Okul.DataAccess.vbproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.DataAccess\obj\Debug\net7.0\E_Okul.DataAccess.vbproj.CopyComplete
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.DataAccess\obj\Debug\net7.0\E_Okul.DataAccess.dll
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.DataAccess\obj\Debug\net7.0\refint\E_Okul.DataAccess.dll
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.DataAccess\obj\Debug\net7.0\E_Okul.DataAccess.pdb
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.DataAccess\obj\Debug\net7.0\ref\E_Okul.DataAccess.dll

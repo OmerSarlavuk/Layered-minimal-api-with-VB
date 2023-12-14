@@ -1,0 +1,12 @@
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.Infrastructure\bin\Debug\net7.0\E_Okul.Infrastructure.deps.json
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.Infrastructure\bin\Debug\net7.0\E_Okul.Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.Infrastructure\bin\Debug\net7.0\E_Okul.Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.Infrastructure\obj\Debug\net7.0\E_Okul.Infrastructure.vbproj.AssemblyReference.cache
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.Infrastructure\obj\Debug\net7.0\E_Okul.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.Infrastructure\obj\Debug\net7.0\E_Okul.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.Infrastructure\obj\Debug\net7.0\E_Okul.Infrastructure.AssemblyInfo.vb
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.Infrastructure\obj\Debug\net7.0\E_Okul.Infrastructure.vbproj.CoreCompileInputs.cache
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.Infrastructure\obj\Debug\net7.0\E_Okul.Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.Infrastructure\obj\Debug\net7.0\refint\E_Okul.Infrastructure.dll
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.Infrastructure\obj\Debug\net7.0\E_Okul.Infrastructure.pdb
+C:\Users\OmerSarlavuk\Desktop\New\E_Okul.Web\E_Okul.Infrastructure\obj\Debug\net7.0\ref\E_Okul.Infrastructure.dll

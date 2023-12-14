@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <RootNamespace>E_Okul.Models</RootNamespace>
+    <TargetFramework>net7.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\E_Okul.Infrastructure\E_Okul.Infrastructure.vbproj" />
+  </ItemGroup>
+
+</Project>
